@@ -1,3 +1,18 @@
+# Informe técnico final — RT-02
+
+Entrega actualizada del 28 de octubre de 2026: habilitación de accesos C-18 a C-04, cajones protegidos por madera y geotextil, barreras y coordinación conforme al PETS122 recibido.
+
+- [Descargar informe final Word](entregables/RT02/Informe_Final_Accesos_Pedestales_Barreras_RT02.docx)
+- [Descargar informe final PDF — 15 páginas](entregables/RT02/Informe_Final_Accesos_Pedestales_Barreras_RT02.pdf)
+
+Para descargar un documento, abre su enlace y pulsa **Download raw file** (icono de descarga). Para todo el repositorio: **Code → Download ZIP**.
+
+La RT-02 establece un método sectorizado con ventanas exclusivas para las actividades que expongan al nivel inferior. No certifica resistencia dinámica de una barrera de tornillo ni constituye autorización operativa firmada. Las consultas web a FHWA y OSHA fueron bloqueadas por el proxy; las fuentes efectivamente utilizadas y la trazabilidad del intento se identifican en el informe.
+
+---
+
+## Archivo de la entrega RT-01
+
 # Informe y sustentación — trabajos en línea vertical
 
 Documentos preparados el 28 de octubre de 2026, revisión RT-01.

@@ -1,3 +1,24 @@
+# Entrega actual — Booster OPP RT-04
+
+Actualización con **madera eucalipto**, parámetros de suelo del Anexo 2 sin cambios, resultados originales del Anexo conservados y Tabla 3 geodinámica suministrada por el solicitante.
+
+Los bosquejos muestran dos líneas: **pedestal o frente de acceso → 5 m → malla 1 → 5 m → malla 2**. Se establece d1≤5 m y d2≤5 m, sobre terreno en dirección descendente. Son ejemplos de implantación sin escala, no una nueva simulación de trayectoria.
+
+- [Informe Word editable](entregables/RT04/Informe_Final_Accesos_Pedestales_Barreras_RT04.docx)
+- [Informe PDF — 34 páginas](entregables/RT04/Informe_Final_Accesos_Pedestales_Barreras_RT04.pdf)
+- [Bosquejos en PDF — una lámina](entregables/RT04/Bosquejos_Booster_OPP_5m_RT04.pdf)
+- [Presentación — 5 diapositivas](entregables/RT04/Bosquejos_y_Datos_Booster_OPP_RT04.pptx)
+- [Memoria Excel — 16 hojas](entregables/RT04/Memoria_Calculo_Booster_OPP_RT04.xlsx)
+- [Paquete completo RT-04](entregables/RT04/Entrega_Booster_OPP_RT04.zip)
+
+**Descarga:** abre el archivo y pulsa **Download raw file** (icono de descarga). Extrae el ZIP para acceder a todos los formatos.
+
+Los parámetros de trayectoria no sustituyen a los de cimentación y no se aplican para reducir nuevamente las energías publicadas. Las cifras originales se conservan separadas del recálculo complementario. No se declara una certificación dinámica del kit ni una autorización operativa firmada de simultaneidad.
+
+---
+
+## Archivo de entregas anteriores
+
 # Entrega actual — Booster OPP RT-03
 
 Informe integrado de 29 páginas para accesos C-18 a C-04, protección de cajones con madera y geotextil, método de trabajo y memoria de cálculo desarrollada a partir del Anexo 2.

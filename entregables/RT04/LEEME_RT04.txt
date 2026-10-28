@@ -1,0 +1,13 @@
+BOOSTER OPP — RT-04 — 28/10/2026
+
+Contenido: informe Word/PDF de 34 páginas; Excel de 16 hojas; PPT de 5 diapositivas; lámina PDF de los bosquejos.
+
+Actualización: madera eucalipto; parámetros de suelo del Anexo 2 sin cambios; transcripción literal de los resultados originales del Anexo 2; Tabla 3 geodinámica suministrada por imagen (relleno 3B, cobertura vegetal y macizo rocoso).
+
+Bosquejos: primera línea a no más de 5 m del borde inferior del trabajo activo y segunda a no más de 5 m de la primera. Ejemplos: pedestal y habilitación de acceso, 5 m + 5 m, distancias sobre terreno en dirección descendente. Sin escala. Implantación indicada por el solicitante; no resultado de una nueva simulación de trayectoria.
+
+Excel: Geodinamica conserva Tabla 3; Anexo2_original conserva las cifras publicadas; Implantacion_OPP registra distancias; las hojas de cálculo complementarias mantienen fórmulas y datos anteriores y explican las diferencias de redondeo. No se aplica una reducción adicional a las energías del Anexo usando los coeficientes de restitución.
+
+Alcance: revisión documental y cálculo del modelo del Anexo. No certificación dinámica ni autorización operativa firmada. Se mantienen control en origen, segregación y exclusión del nivel inferior expuesto durante las tareas generadoras de caída.
+
+GitHub: abre cada archivo y pulsa Download raw file. El ZIP contiene todos los documentos; extráelo después de descargar.

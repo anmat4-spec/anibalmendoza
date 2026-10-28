@@ -1,0 +1,10 @@
+INFORME Y MEMORIA DE CÁLCULO — BOOSTER OPP — RT-03
+28 de octubre de 2026
+
+Archivos: informe en Word editable, PDF de 29 páginas y memoria Excel de 13 hojas con 117 fórmulas.
+
+Material y suelo de cálculo: eucalipto y parámetros del Anexo 2, por instrucción expresa del solicitante. No se atribuyen las propiedades de eucalipto al tornillo. En el Excel, Entradas identifica la fuente de cada parámetro y Resultados contiene valores calculados independientemente para lectura inmediata. Las fórmulas recalculan al abrir con Excel o aplicación compatible.
+
+Alcance: reproducción y desarrollo del modelo del Anexo para estructurar la protección de C-18 a C-04 de Booster OPP. La comparación nominal de componentes no es certificación dinámica del kit, ni validación de trayectorias locales, ni permiso firmado para ocupar el frente inferior expuesto. El método mantiene exclusión y ventanas exclusivas para las tareas que generen caída.
+
+Para descargar desde GitHub: abrir el archivo y pulsar Download raw file o el icono de descarga. Para el paquete, descargar el ZIP, extraerlo y abrir los documentos.

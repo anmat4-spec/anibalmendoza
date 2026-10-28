@@ -1,3 +1,20 @@
+# Entrega actual — Booster OPP RT-03
+
+Informe integrado de 29 páginas para accesos C-18 a C-04, protección de cajones con madera y geotextil, método de trabajo y memoria de cálculo desarrollada a partir del Anexo 2.
+
+**Base de esta revisión:** eucalipto y suelo del Anexo 2, conforme a la instrucción del solicitante. Incluye doble malla, cables, postes, deformación, retenidas, muertos, empotramiento, presión, anclajes extremos, fuerzas de conexión y metrado modular. La comparación numérica no certifica la capacidad dinámica del kit completo ni habilita personas dentro de la línea de fuego.
+
+- [Informe Word editable](entregables/RT03/Informe_Final_Accesos_Pedestales_Barreras_RT03.docx)
+- [Informe PDF — 29 páginas](entregables/RT03/Informe_Final_Accesos_Pedestales_Barreras_RT03.pdf)
+- [Memoria Excel — 13 hojas, 117 fórmulas](entregables/RT03/Memoria_Calculo_Booster_OPP_RT03.xlsx)
+- [Paquete completo ZIP — RT-03](entregables/RT03/Entrega_Booster_OPP_RT03.zip)
+
+**Descarga:** abrir el enlace y pulsar **Download raw file** (icono de descarga). El ZIP de RT-03 contiene los tres documentos y una nota de alcance. En Excel, la hoja **Resultados** contiene valores numéricos contrastados; las demás hojas recalculan al abrir.
+
+---
+
+## Entregas anteriores, conservadas como archivo
+
 # Informe técnico final — RT-02
 
 Entrega actualizada del 28 de octubre de 2026: habilitación de accesos C-18 a C-04, cajones protegidos por madera y geotextil, barreras y coordinación conforme al PETS122 recibido.
